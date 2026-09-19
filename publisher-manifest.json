@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "84c3af6b23584e38f233f1b5",
+  "owner": "feaucgxrkrt",
+  "repo": "page-0c23afb963357ac174087776",
+  "title": "几鸡(ChinaG)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0c23afb963357ac174087776",
+      "a": "几鸡(ChinaG)",
+      "b": "ClashX官方下载",
+      "entity": "几鸡(ChinaG)",
+      "brand": "几鸡(ChinaG)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "88e3f0cd4496fbbfc91153a0875c5ef30403721fb8f4c3ec1ea3ad5f3d38f643",
+      "content": {
+        "primary_entity": "几鸡(ChinaG)",
+        "keyword1": "几鸡(ChinaG)",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户提供多档订阅方案。基础版每月 100GB 流量与 3 台设备适合个人日常使用，旗舰版每月 300GB 流量与 5 台设备覆盖流媒体和游戏场景，团队版每月 1000GB 流量与 20 台设备满足多终端协作。按年付折算更划算，选好套餐后再根据设备选择订阅客户端。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HERO_INTRO": "几鸡(ChinaG)提供基础版、旗舰版与团队版三档订阅，分别对应个人浏览、流媒体游戏和多设备团队场景。订阅按流量与同时在线设备数量区分，按年付比按月付更省，设置时根据设备平台挑选对应客户端导入订阅即可。",
+          "AI_VISUAL_TITLE": "几鸡海外加速器套餐对比",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "按年付更省月均支出",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量与订阅周期三个角度考虑套餐。",
+          "AI_FEATURE_TITLE_1": "按流量定档",
+          "AI_FEATURE_TEXT_1": "每月 100GB 适合轻量浏览，300GB 兼顾流媒体，1000GB 适合多设备重度使用。",
+          "AI_FEATURE_TITLE_2": "按设备数判断",
+          "AI_FEATURE_TEXT_2": "基础版 3 台设备，旗舰版 5 台，团队版 20 台，按日常同时在线的设备数量选择。",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，折算月均低于按月付。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，订阅链接导入方式也略有区别。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合个人，旗舰版 ¥35/月为热门选择，团队版 ¥85/月面向多用户。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确认需求，再核对适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "按每月流量和同时在线设备数量，从三档中挑选合适的订阅。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认设备系统和网络环境符合所选套餐的使用范围。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档说明添加订阅地址并更新节点。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定订阅，按客户端文档完成配置。",
+          "AI_FAQ_ANSWER_1": "适合日常网页浏览和轻量流媒体，每月 100GB 流量可满足单人基础使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，并提供 IPLC 专线游戏加速优化和流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "年付相比月付总价更低，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "Windows 可用 Clash 或 v2rayN，macOS 可用 ClashX，Android 可用 v2rayNG，iOS 可用 Shadowrocket，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、20 台设备，并支持企业定制路由和专属客户经理服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版每月 100GB 流量适合什么场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "不同设备该下载哪个客户端？",
+          "AI_FAQ_QUESTION_5": "团队版适合怎样的使用需求？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5087685a27f71eb18a90dd90d8694e8a5f72cb22e54c12073b2d54a116527a8f",
+    "sitemap.xml": "788650a8352d7c69aba134ad65648fa8808bff52b9bd20dcb9f1e9a06058a29e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "710a456f3d4bb41d0f843bb42df6b36a7623e0649a8522e5bcccbdcecd5af001"
+}
